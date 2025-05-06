@@ -4,7 +4,7 @@
   <img src="https://github.com/cryxos21/cryxos21/blob/main/banner.png" alt="DevOpsShack Banner">
 </div>
 
-I'm an undergraduate student majoring in Informatics Engineering at San Pedro University, Kupang. I started learning programming in the 3rd year of high school.
+I'm an undergraduate student majoring in Informatics Engineering at San Pedro University, Kupang. I started learning programming in the first year of my computer engineering studies at university.
 
 - 🌍 I'm based in Kupang, East Nusa Tenggara, Indonesia  
 - 🌐 See my portfolio at [Cryxos Portfolio Website](https://cryxos21.github.io/eternal.github.io/)  
