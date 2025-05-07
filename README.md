@@ -11,7 +11,6 @@ I'm an undergraduate student majoring in Informatics Engineering at San Pedro Un
 - 🧠 I'm currently learning about Big Data and Artificial Intelligence
 
 ## 📊 My Stats
-
 ![Cryxos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryxos21&show_icons=true&theme=radical)
 
 ### Languages & Tools: 🛠️
